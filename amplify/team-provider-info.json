@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatterclone-dev-105924-authRole",
+      "UnauthRoleArn": "arn:aws:iam::355589406255:role/amplify-chatterclone-dev-105924-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::355589406255:role/amplify-chatterclone-dev-105924-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-chatterclone-dev-105924-deployment",
+      "UnauthRoleName": "amplify-chatterclone-dev-105924-unauthRole",
+      "StackName": "amplify-chatterclone-dev-105924",
+      "StackId": "arn:aws:cloudformation:eu-west-1:355589406255:stack/amplify-chatterclone-dev-105924/ebf9d350-b6bb-11eb-804a-064c6fb1045d",
+      "AmplifyAppId": "dvtb7bd8owuz9"
+    },
+    "categories": {
+      "auth": {
+        "chatterclonec704a9d8": {}
+      }
+    }
+  }
+}
